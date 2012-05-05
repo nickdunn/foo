@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension id="foo" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
 	<name>Foo</name>
-<<<<<<< HEAD
 	<description>Foo bar lorem ipsum pie</description>
-=======
-	<description>Foo bar lorem ipsum2</description>
->>>>>>> foobar
 	<repo type="github">https://github.com/nickdunn/foo</repo>
 	<types>
 		<type>Foo</type>
